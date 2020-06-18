@@ -3,7 +3,8 @@
 ![version](https://img.shields.io/badge/version-dev-brightgreen)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb)
+
 A Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in a FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
 
 Implemented my own algorithms for AI pathfinding, navigation, raycasting and other mechanics. Online free assets were mostly used excluding some which've been self-designed customly.
@@ -16,10 +17,10 @@ This game was inspired by [GameDev.tv](https://www.gamedev.tv)'s Unity Game Deve
 Developed with Unity 2019.1.14f1.
 
 ## Preview
-<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042545-f6b68400-b1a8-11ea-9cba-ba45960d160a.png" height="300" width="300"></p> 
-<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042562-fae2a180-b1a8-11ea-86f1-9fe527991323.png" height="300" width="300"></p> 
-<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042599-046c0980-b1a9-11ea-932b-6129218351f6.png" height="300" width="300"></p> 
-<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042634-0d5cdb00-b1a9-11ea-9d39-d9e6646b11e1.png" height="300" width="300"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042545-f6b68400-b1a8-11ea-9cba-ba45960d160a.png" height="500" width="800"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042562-fae2a180-b1a8-11ea-86f1-9fe527991323.png" height="500" width="800"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042599-046c0980-b1a9-11ea-932b-6129218351f6.png" height="500" width="800"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/36305142/85042634-0d5cdb00-b1a9-11ea-9d39-d9e6646b11e1.png" height="500" width="800"></p> 
 
 ## Playing guide
 - The flashlight decays as time progresses. So you need to recharge it by finding a battery before running out.
