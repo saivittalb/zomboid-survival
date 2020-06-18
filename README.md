@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb)
 
-A Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in a FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
+An Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in a FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
 
 Implemented my own algorithms for AI pathfinding, navigation, raycasting and other mechanics. Online free assets were mostly used excluding some which've been self-designed customly.
 
