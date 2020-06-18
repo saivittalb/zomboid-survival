@@ -32,7 +32,7 @@ Developed with Unity 2019.1.14f1.
 ## License
 This project is licensed under the MIT License, a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-<p align="center"> Copyright (c) 2020 Sai Vittal B. All rights reserved.</p>
+<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
 
 ## Contributing
 - Fork this project by clicking the ```Fork``` button on top right corner of this page.
