@@ -5,11 +5,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb)
 
-An Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in a FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
+A Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in an FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
 
-Implemented my own algorithms for AI pathfinding, navigation, raycasting and other mechanics. Online free assets were mostly used excluding some which've been self-designed customly.
+Implemented my algorithms for AI pathfinding, navigation, raycasting, and other mechanics. Online free assets were mostly used excluding some which've been self-designed customly.
 
-The game is PC, Mac and Linux standalone (can also be customizable and exported for other platforms). Open this project with Unity and choose build target in build settings to export runnable and play.
+The game is PC, Mac, and Linux standalone (can also be customizable and exported for other platforms). Open this project with Unity and choose build target in build settings to export runnable and play.
 
 This game was inspired by [GameDev.tv](https://www.gamedev.tv)'s Unity Game Developer online course. Design assets were inspired by the course but mechanics and AI were done from scratch without the help of the course.
 
@@ -26,7 +26,7 @@ Developed with Unity 2019.1.14f1.
 - The flashlight decays as time progresses. So you need to recharge it by finding a battery before running out.
 - You can still play the game without flashlight but the zombies have a slight advantage in attacking you due to your poor visibility.
 - Ammo pickups for guns and battery pickup for the flashlight are available at certain places in the terrain.
-- Three guns are available, Pistol, Shotgun and Carbine rifle with some pre-loaded bullets. To change between guns, use scroller of your mouse.
+- Three guns are available, Pistol, Shotgun and Carbine rifle with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
 - Hunt down all the zombies in the terrain by finding them to win.
 
 ## License
